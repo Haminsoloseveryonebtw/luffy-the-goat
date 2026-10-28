@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Brenda Mireles
 ##  About Me
 _I like reading manga and comics, one of my favorite mangas to read is One Piece, and for comics I really enjoy reading about Batman or Daredevil._
 ## ⚒️ Skills
