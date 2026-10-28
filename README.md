@@ -15,11 +15,11 @@ I enjoy learning new things, exploring technology, and improving my technical sk
 
 Tools and Technologies
 
-!Linux !Git !PowerShell !GitHub
+Linux Git PowerShell GitHub
 
 🎯 Interests
 
-!Cybersecurity !Artificial Intelligence !Open Source
+Cybersecurity Artificial Intelligence Open Source
 
 📊 GitHub
 
