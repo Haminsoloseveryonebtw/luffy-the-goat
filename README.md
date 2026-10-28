@@ -1,16 +1,34 @@
-## 👏 Hi, I'm Brenda Mireles
-##  About Me
-_I like reading manga and comics, one of my favorite mangas to read is One Piece, and for comics I really enjoy reading about Batman or Daredevil._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=pink)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=pink)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Haminsoloseveryonebtw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+👋 Hey, I'm Brenda Mireles!
 
-_"I wanna be the King of the Pirates!"_
+💻 Aspiring tech enthusiast with an interest in Linux, cybersecurity, artificial intelligence, and open-source projects.
+
+I enjoy learning new things, exploring technology, and improving my technical skills one step at a time.
+
+🧑‍💻 About Me
+📚 Manga and comic book reader
+🏴‍☠️ Huge One Piece fan
+🦇 I enjoy reading stories featuring Batman and Daredevil
+🔐 Interested in cybersecurity and digital security
+🤖 Curious about artificial intelligence and emerging technologies
+🌱 Always learning and looking for opportunities to grow
+🛠️ Tech Stack & Skills
+
+Tools and Technologies
+
+!Linux !Git !PowerShell !GitHub
+
+🎯 Interests
+
+!Cybersecurity !Artificial Intelligence !Open Source
+
+📊 GitHub
+
+![GitHub](https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🌐 Connect With Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+"I'm gonna be King of the Pirates!" ☠️
+
+⭐ Thanks for stopping by my profile!
